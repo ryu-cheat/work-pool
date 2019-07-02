@@ -1,0 +1,19 @@
+{
+    "name": "work-pool",
+    "version": "1.0.0",
+    "main": "Pool.js",
+    "scripts": { },
+    "license": "ISC",
+    "description": "NodeJS fast work pool",
+    "dependencies": { },
+    "homepage": "https://github.com/lendland/work-pool",
+    "author": {
+        "name": "JaeWan, Ryu",
+        "email": "rwh9969@gmail.com",
+        "url": "https://github.com/lendland/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lendland/work-pool.git"
+    }
+}
